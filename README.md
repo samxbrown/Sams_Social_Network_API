@@ -1,7 +1,7 @@
 # Social Network API Starter Code
 
 # Description
-This starter code contains a codebase for a user to create a workday scheduler calendar.
+This starter code contains a codebase for a user to create a social newtwork API.
 
 ## Installation
 
@@ -17,13 +17,19 @@ cd Sams_Social_Network_API
 
 ## Usage
 
-Once you have the project set up locally, you can:
+Once you have the project set up locally, you can adjust the starter code to best suit your needs. Technology used:
+* Javascript
+* Node.js
+* Express.js
+* MongoDB
+* Mongoose
 
-
+# Screenshot/Walkthough Video
 
 
 # Credits
-
+I would like to thank my tutor Samuel Cordova for assistance with creating this code as well as the following Github repo for inspiration:
+https://github.com/joce1ynn/social-network-NoSQL#Technology
 
 # License
 N/A
